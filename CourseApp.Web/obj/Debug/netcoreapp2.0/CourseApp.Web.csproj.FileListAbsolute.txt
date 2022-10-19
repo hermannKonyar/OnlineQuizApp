@@ -1,0 +1,11 @@
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\1-Getting Started\0-Files\CourseApp\CourseApp.Web\bin\Debug\netcoreapp2.0\CourseApp.Web.deps.json
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\1-Getting Started\0-Files\CourseApp\CourseApp.Web\bin\Debug\netcoreapp2.0\CourseApp.Web.runtimeconfig.json
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\1-Getting Started\0-Files\CourseApp\CourseApp.Web\bin\Debug\netcoreapp2.0\CourseApp.Web.runtimeconfig.dev.json
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\1-Getting Started\0-Files\CourseApp\CourseApp.Web\bin\Debug\netcoreapp2.0\CourseApp.Web.dll
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\1-Getting Started\0-Files\CourseApp\CourseApp.Web\obj\Debug\netcoreapp2.0\CourseApp.Web.csprojResolveAssemblyReference.cache
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\1-Getting Started\0-Files\CourseApp\CourseApp.Web\obj\Debug\netcoreapp2.0\CourseApp.Web.csproj.CoreCompileInputs.cache
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\1-Getting Started\0-Files\CourseApp\CourseApp.Web\obj\Debug\netcoreapp2.0\CourseApp.Web.AssemblyInfoInputs.cache
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\1-Getting Started\0-Files\CourseApp\CourseApp.Web\obj\Debug\netcoreapp2.0\CourseApp.Web.AssemblyInfo.cs
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\1-Getting Started\0-Files\CourseApp\CourseApp.Web\bin\Debug\netcoreapp2.0\CourseApp.Web.pdb
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\1-Getting Started\0-Files\CourseApp\CourseApp.Web\obj\Debug\netcoreapp2.0\CourseApp.Web.dll
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\1-Getting Started\0-Files\CourseApp\CourseApp.Web\obj\Debug\netcoreapp2.0\CourseApp.Web.pdb
